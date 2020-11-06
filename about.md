@@ -16,3 +16,7 @@ I'm currently most interested in the history and philosophy of logic generally a
 Lately I've been looking into Peirce's criticism of Bertrand Russell's __Principles of Mathematics__. Peirce seems to have thought that some aspect of Russell's book might be improved by incorporating his semiotic theory.
 
 I'm also still looking into various aspects of his three valued logic, continuing work done in my MA thesis. I'm interested in how his philosophy of logic may have informed his choice of three valued operators.
+
+### Contact
+
+odlandb@mcmaster.ca
