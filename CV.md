@@ -4,6 +4,8 @@ title: CV
 permalink: /cv/
 published: true
 ---
+### Education
+
 
 
 ### Forthcoming Publications
@@ -11,4 +13,3 @@ published: true
 ### Presentations
 
 ### Teaching
-
