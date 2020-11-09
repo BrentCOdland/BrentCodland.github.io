@@ -12,9 +12,9 @@ MA, Philosophy, University of Calgary, 2020.
 Thesis: "Peirce's Triadic Logic: Continuity, Modality, and L"
 Committee: Mark Migotti (Supervisor), Richard Zach, Nicole Wyatt.
 
-BA (Honours), Philosophy, University of Calgary, 2017
-Thesis: "Charles Peirce on the Logic of Science and the Science of Logic"
-Committee: Mark Migotti (Supervisor), C. Ken Waters, Marc Ereshefsky.
+- BA (Honours), Philosophy, University of Calgary, 2017
+- Thesis: "Charles Peirce on the Logic of Science and the Science of Logic"
+- Committee: Mark Migotti (Supervisor), C. Ken Waters, Marc Ereshefsky.
 
 ### Forthcoming Publications
 
