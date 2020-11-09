@@ -23,22 +23,15 @@ Society, forthcoming. (To be published as winner of the Charles S. Peirce Essay 
 
 ### Presentations
 
-“Peirce’s Triadic Logic: Modality and Continuity”, Annual General Meeting of the Charles
-S. Peirce Society, New York NY (to be held virtually), 2021. (To be presented as winner of the
-Charles S. Peirce Essay Prize).
+“Peirce’s Triadic Logic: Modality and Continuity”, Annual General Meeting of the Charles S. Peirce Society, New York NY (to be held virtually), 2021. (To be presented as winner of the Charles S. Peirce Essay Prize).
 
-“Peirce’s Triadic Logic: Continuity, Modality, and L”, Public Seminar, University of Calgary,
-2020.
+“Peirce’s Triadic Logic: Continuity, Modality, and L”, Public Seminar, University of Calgary, 2020.
 
-“Is Believing Fake News Culpable Ignorance?”, Connections Conference, University of
-Lethbridge, 2019.
+“Is Believing Fake News Culpable Ignorance?”, Connections Conference, University of Lethbridge, 2019.
 
-“Two and a Half Solutions to the Divestiture Puzzle”, Society for Business Ethics, Boston
-MA, 2019. (Accepted but could not attend. Co-author David Dick presented on both our
-behalves.)
+“Two and a Half Solutions to the Divestiture Puzzle”, Society for Business Ethics, Boston MA, 2019. (Accepted but could not attend. Co-author David Dick presented on both our behalves.)
 
-“Is Believing Fake News Culpable Ignorance?”, Philosophy Graduate Student Colloquium,
-2018.
+“Is Believing Fake News Culpable Ignorance?”, Philosophy Graduate Student Colloquium, 2018.
 
 “Peirce’s Account of Truth and Inquiry”, Apeiron Society for the Practice of Philosophy, 2017.
 
