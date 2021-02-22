@@ -35,6 +35,10 @@ Society, forthcoming. (To be published as winner of the Charles S. Peirce Essay 
 
 “Peirce’s Account of Truth and Inquiry”, Apeiron Society for the Practice of Philosophy, 2017.
 
+### Book Reviews
+
+"Frank Ramsey: A Sheer Excess of Powers", By Cheryl Misak. Philosophical Inquiries, 2021.
+
 ### Scholarships and Awards
 
 Ontario Graduate Scholarship, 2020, $15 000 (12 Months).
@@ -52,6 +56,8 @@ Jason Lang Scholarship, 2014, 2015, 2016, $3000 Total.
 ### Teaching and Other Activities
 
 Secretary of Philosophy Graduate Student Association, University of Calgary, 2019-2020.
+
+Teaching Assistant, Early Modern Philosophy II (Philos 2xx3), James Sikkema, Winter 2021.
 
 Teaching Assistant, Introductory Logic (Philos 2B03), Bradley Schubert, Fall 2020.
 
