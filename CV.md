@@ -41,6 +41,10 @@ Society, forthcoming. (To be published as winner of the Charles S. Peirce Essay 
 
 ### Scholarships and Awards
 
+Joseph Armand Bombardier Scholarship, 2021-2024, $105 000 (36 Months).
+
+SSHRC Doctoral Scholarship (Replaced by Joseph Armand Bombardier Doctoral Scholarship), 2021-2025, $80 000 (48 Months).
+
 Ontario Graduate Scholarship, 2020, $15 000 (12 Months).
 
 McMaster Graduate Scholarship, 2020, $48 000 (48 Months).
@@ -53,9 +57,13 @@ Dean’s List, 2017.
 
 Jason Lang Scholarship, 2014, 2015, 2016, $3000 Total.
 
-### Teaching and Other Activities
+### Professional Activities
+
+Research Assistant, The/La Collaborative, Sandra Lapointe, Spring 2021-Present.
 
 Secretary of Philosophy Graduate Student Association, University of Calgary, 2019-2020.
+
+### Teaching
 
 Teaching Assistant, Early Modern Philosophy II (Philos 2xx3), James Sikkema, Winter 2021.
 
