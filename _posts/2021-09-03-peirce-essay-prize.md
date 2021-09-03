@@ -1,5 +1,7 @@
 ---
-published: false
+layout: post
+title: Peirce's 3vl Logic and my essay prize
+published: true
 ---
 ## Peirce's 3vl Logic and my essay prize
 
