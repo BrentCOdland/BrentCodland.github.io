@@ -3,7 +3,6 @@ layout: post
 title: Peirce's 3vl Logic and my essay prize
 published: true
 ---
-## Peirce's 3vl Logic and my essay prize
 
 October last year (2020), I found out that I won the Charles S. Peirce essay prize for a paper I drew out of my master's thesis on Peirce's three valued logic at the University of Calgary. My supervisor was Mark Migotti and my unofficial co-supervisor was Richard Zach for this project.
 
